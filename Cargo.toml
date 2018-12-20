@@ -1,0 +1,7 @@
+[package]
+name = "german-rust-turorial"
+version = "0.1.0"
+authors = ["zmisic <joj.pacovi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
